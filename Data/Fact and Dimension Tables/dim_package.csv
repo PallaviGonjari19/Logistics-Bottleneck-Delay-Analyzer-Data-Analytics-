@@ -1,0 +1,101 @@
+package_id,size,weight,priority,type
+1,M,13.91,Standard,Document
+2,L,28.88,Express,Small Parcel
+3,L,6.1,Express,Large Box
+4,L,8.95,Express,Small Parcel
+5,M,18.27,Express,Large Box
+6,M,28.57,Express,Small Parcel
+7,S,10.31,Express,Small Parcel
+8,M,7.96,Standard,Document
+9,L,20.77,Standard,Small Parcel
+10,M,5.5,Standard,Small Parcel
+11,L,26.6,Standard,Document
+12,S,21.36,Express,Document
+13,L,19.46,Express,Small Parcel
+14,S,29.61,Express,Large Box
+15,S,17.46,Express,Small Parcel
+16,L,5.85,Express,Small Parcel
+17,M,3.71,Express,Document
+18,L,26.71,Express,Document
+19,S,18.29,Express,Small Parcel
+20,L,5.96,Express,Small Parcel
+21,S,17.87,Express,Document
+22,L,12.86,Standard,Small Parcel
+23,L,8.24,Standard,Large Box
+24,M,24.37,Express,Small Parcel
+25,L,20.08,Standard,Document
+26,M,10.09,Standard,Document
+27,S,5.97,Standard,Small Parcel
+28,M,16.58,Standard,Document
+29,M,7.58,Standard,Small Parcel
+30,L,15.27,Express,Small Parcel
+31,S,15.1,Standard,Small Parcel
+32,S,29.93,Express,Small Parcel
+33,S,28.58,Standard,Large Box
+34,S,11.72,Express,Small Parcel
+35,S,5.11,Standard,Small Parcel
+36,L,19.6,Express,Small Parcel
+37,M,12.37,Standard,Document
+38,M,25.85,Express,Document
+39,L,18.02,Standard,Large Box
+40,M,5.57,Standard,Document
+41,S,21.33,Express,Large Box
+42,S,4.19,Standard,Large Box
+43,L,5.99,Standard,Large Box
+44,L,5.0,Standard,Document
+45,M,25.13,Express,Large Box
+46,L,2.93,Express,Document
+47,L,16.75,Standard,Small Parcel
+48,M,16.64,Standard,Large Box
+49,M,18.04,Standard,Small Parcel
+50,L,28.83,Express,Large Box
+51,L,21.02,Standard,Large Box
+52,L,11.21,Standard,Document
+53,M,5.98,Standard,Small Parcel
+54,S,21.66,Express,Document
+55,S,0.94,Express,Large Box
+56,L,26.58,Express,Document
+57,S,18.93,Express,Document
+58,L,0.67,Standard,Document
+59,M,15.91,Standard,Document
+60,L,6.53,Express,Large Box
+61,M,16.72,Express,Small Parcel
+62,S,19.45,Express,Large Box
+63,M,25.91,Express,Document
+64,S,0.96,Standard,Document
+65,M,17.66,Express,Document
+66,M,5.2,Standard,Small Parcel
+67,L,19.29,Express,Small Parcel
+68,M,24.71,Express,Large Box
+69,M,28.69,Standard,Document
+70,M,15.21,Express,Large Box
+71,L,13.74,Standard,Document
+72,S,26.95,Express,Document
+73,S,29.25,Express,Small Parcel
+74,M,24.56,Express,Small Parcel
+75,S,29.98,Express,Large Box
+76,M,14.42,Standard,Document
+77,L,29.76,Express,Large Box
+78,M,29.25,Express,Large Box
+79,L,4.63,Standard,Document
+80,S,3.5,Express,Document
+81,S,19.93,Standard,Small Parcel
+82,M,3.01,Standard,Small Parcel
+83,L,26.61,Standard,Small Parcel
+84,S,6.65,Standard,Small Parcel
+85,S,5.31,Standard,Large Box
+86,L,25.6,Express,Small Parcel
+87,M,23.7,Standard,Large Box
+88,S,25.58,Standard,Document
+89,L,5.28,Standard,Small Parcel
+90,S,15.98,Express,Small Parcel
+91,L,23.21,Express,Small Parcel
+92,S,25.13,Express,Document
+93,M,5.7,Express,Large Box
+94,L,6.01,Express,Document
+95,S,29.79,Standard,Large Box
+96,L,3.95,Express,Small Parcel
+97,S,1.7,Express,Document
+98,M,23.51,Standard,Document
+99,M,0.95,Standard,Document
+100,L,28.63,Express,Small Parcel
