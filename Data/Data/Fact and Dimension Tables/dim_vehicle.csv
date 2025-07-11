@@ -1,5 +1,0 @@
-vehicle_id,vehicle_type,capacity_kg,average_speed_kmph,fuel_usage_l_per_100km
-1,Bike,100,45,4
-2,Van,1000,50,8
-3,Mini Truck,2000,55,12
-4,Truck,5000,60,15
